@@ -7,4 +7,5 @@ Only map to the genome region that we need, so as to map faster and more accurat
 
 Ex: CoreGenome.sh 
 
+warning: Maybe some reads which don't blongs to these region will map to this region, so please think well before you act.
 
